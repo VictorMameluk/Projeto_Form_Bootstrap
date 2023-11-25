@@ -8,10 +8,10 @@ Nesse projeto coloquei em prática os conhecimentos adquiridos no curso de Boots
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="javaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-<img alt="Pagina inicial" src="https://github.com/VictorMameluk/Projeto_orcamento_pessoal_ES6/blob/main/assets/hom1.png">
-<img alt="Erro no cadastro" src="https://github.com/VictorMameluk/Projeto_orcamento_pessoal_ES6/blob/main/assets/homeErro.png">
-<img alt="Sucesso no cadastro" src="https://github.com/VictorMameluk/Projeto_orcamento_pessoal_ES6/blob/main/assets/homeSucces.png">
-<img alt="Local storage" src="https://github.com/VictorMameluk/Projeto_orcamento_pessoal_ES6/blob/main/assets/webStorage.png">
+<img alt="Pagina inicial" src="https://github.com/VictorMameluk/Projeto_Form_Bootstrap/blob/main/assets/img/index.png">
+<img alt="Pagina inicial Responsiva" src="https://github.com/VictorMameluk/Projeto_Form_Bootstrap/blob/main/assets/img/index_responsivo.png">
+<img alt="Tela de registro" src="https://github.com/VictorMameluk/Projeto_Form_Bootstrap/blob/main/assets/img/Tela_Registro.png">
+<img alt="Tela de registro responsiva" src="https://github.com/VictorMameluk/Projeto_Form_Bootstrap/blob/main/assets/img/Tela_Registro_Responsivo.png">
 
 # Autor:
  
